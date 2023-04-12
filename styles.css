@@ -1,0 +1,27 @@
+body{
+    color: rgb(88, 61, 61);
+    background-color: bisque; /*req bv*/
+    background-size: cover;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(88, 61, 61);
+}
+img{
+    display: block;
+    padding: 5px;
+    border: 2px solid black;
+    margin: auto;
+    text-align: center;
+}
+
+.hk{
+    color:rgb(93, 134, 147);
+
+}
+.ss{
+    color:rgb(196, 66, 66)
+}
+
+/*rgb(229, 148, 148)*/
